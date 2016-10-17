@@ -1,0 +1,41 @@
+bandos helmet:bh
+bandos chestplate:bcp
+bandos tassets:tass
+bandos gloves:bg
+bandos boots:bb
+bandos warshield:bws
+armadyl helmet:ah
+armadyl chestplate:acp
+armadyl chainskirt:acs
+armadyl gloves:ag
+armadyl boots:ab
+armadyl crossbow:acb
+off-hand armadyl crossbow:oacb
+armadyl buckler:buck
+hood of subjugation:sh
+garb of subjugation:garb
+gown of subjugation:gown
+gloves of subjugation:sg
+boots of subjugation:sb
+ward of subjugation:ward
+saradomin's hiss:hiss
+saradomin's murmur:murm
+saradomin's whisper:whisp
+anima core helm of seren:serh
+anima core body of seren:serb
+anima core legs of seren:serl
+anima core helm of sliske:slih
+anima core body of sliske:slib
+anima core legs of sliske:slil
+anima core helm of zamorak:zamh
+anima core body of zamorak:zamb
+anima core legs of zamorak:zaml
+anima core helm of zaros:zarh
+anima core body of zaros:zarb
+anima core legs of zaros:zarl
+shadow glaive:mhsg
+off-hand shadow glaive:ohsg
+dragon rider lance:lance
+blade of avaryss:avaryss
+blade of nymora:nymora
+wand of the cywir elders:cywir

@@ -1,0 +1,58 @@
+Bandos:
+Bh: 75-175
+Bcp: 3125-3375
+Tass: 1800-2025
+Bg: 150-250
+Bb: 325-425
+Bws: 75-150
+
+Armadyl:
+Ah: 1325-1450
+Acp: 3625-3775
+Acs: 2175-2600
+Ag: 1350-1625
+Ab: 1675-1875
+Acb: 2750-3075
+Oacb: 6200-6700
+Buck: 1350-1725
+
+Subjugation:
+Sh: 850-1100
+Garb: 3200-3675
+Gown: 2250-2500
+Sg: 900-1250
+Sb: 925-1200
+Ward: 750-900
+
+Amulets:
+Hiss: 100-150
+Murm: 200-250
+Whisp: 125-250
+
+Anima core Seren:
+Serh: 20000-20400
+Serb: 19750-21300
+Serl: 18950-20425
+
+Anima core Sliske:
+Slih: 14750-15700
+Slib: 14425-14525
+Slil: 13950-14800
+
+Anima core Zamorak:
+Zamh: 10100-10525
+Zamb: 10625-10925
+Zaml: 10550-10825
+
+Anima core Zaros:
+Zarh: 21600-22975
+Zarb: 22100-23475
+Zarl: 22350-23000
+
+GWD2 Weapons:
+Mhsg: 15050-15350
+Ohsg: 9550-9900
+Lance: 24275-24800
+Avaryss: 1775-1975
+Nymora: 2400-2500
+Cywir: 14875-15275
